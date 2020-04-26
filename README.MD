@@ -14,5 +14,5 @@ Installation on the WordPress plugin store
 
 ### Does Tingg checkout collect outside Africa?
 TLDR; No.
-Currently we are only enable payments in African markets.
+Currently only payments in African markets are enabled.
 
